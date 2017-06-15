@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements xmlns="http://schemas.microsoft.com/AspNet/AdRotator-Schedule-File">
+  <Ad>
+    <ImageUrl>~/photos/ad1.jpg</ImageUrl>
+    <NavigateUrl>http://www.pepsi.co.in</NavigateUrl>
+    <AlternateText>Ad for pepsi</AlternateText>
+    <Impressions>100</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/photos/ad2.jpg</ImageUrl>
+    <NavigateUrl>http://www.MccDonalds.com</NavigateUrl>
+    <AlternateText>Ad for MccDonalds</AlternateText>
+    <Impressions>50</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/photos/ad3.jpg</ImageUrl>
+    <NavigateUrl>http://www.tuborg.com</NavigateUrl>
+    <AlternateText>Ad for Beer</AlternateText>
+    <Impressions>50</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/photos/ad4.jpg</ImageUrl>
+    <NavigateUrl>http://www.airtel.com</NavigateUrl>
+    <AlternateText>Ad for Airtel company</AlternateText>
+    <Impressions>50</Impressions>
+  </Ad>
+</Advertisements>
